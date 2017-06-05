@@ -8,4 +8,9 @@ UAI-SDK can work with this Http Server.
 # Run:
 
 > python server.py --port=8080 --json_conf="tf_mnist.conf"
+
 Note: tf_mnist.conf is in https://github.com/ucloud/uai-sdk/tree/master/examples/tensorflow/mnist
+
+# Product Docs：
+
+https://docs.ucloud.cn/analysis/uai-service/index
